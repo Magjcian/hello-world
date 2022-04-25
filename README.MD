@@ -1,1 +1,1 @@
-init file prod
+init file prod 1
